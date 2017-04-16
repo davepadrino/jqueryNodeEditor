@@ -1,3 +1,12 @@
+jquery-ui-nodeEditor Improvements
+====================================
+This repo is based in https://github.com/MalcolmDwyer/jquery-ui-nodeEditor by Malcolm Dwyer
+
+We've added some functionalities such as deleting boxes once they've dropped in the "droppable field" and making boxes capable to have some parameters in case you need to insert some. You can insert this params through a form activated once you click a dropped box in the "droppable field".
+
+README from the original author: 
+--------------------------------------
+
 jquery-ui-nodeEditor
 ====================
 
